@@ -1,0 +1,4 @@
+cookbooks
+roles
+.vagrant
+Berksfile.lock
